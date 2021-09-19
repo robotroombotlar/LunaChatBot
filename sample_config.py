@@ -10,11 +10,11 @@ if HEROKU:
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
 
-    bot_token = "16901971:AAFqdM_SQE1PB2P1xLr67k"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    bot_token = "2004087378:AAGNIZit77YYkeO8-dLm7-yC-jWAny97U0Q"
+    ARQ_API_KEY = "GTHRMK-TZQQMN-IGAVRV-PXDUGL-ARQ"
 # List of supported languages >>
-# https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
-    LANGUAGE = "en"
+# https://py-googletrans.readthedocs.io/tr/latest/#googletrans-languages
+    LANGUAGE = "tr"
 
 # Leave it as it is
 ARQ_API_BASE_URL = "https://thearq.tech"
